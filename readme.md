@@ -1,4 +1,4 @@
-# Bootcamper API
+# Bootcamp App API
 
 > Backend API for Bootcamper application, which is a bootcamp directory website
 
